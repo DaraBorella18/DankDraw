@@ -61,4 +61,4 @@ sudo ./LCD35-show
 >### In this docs you can search a [3D model to  the cube made in solid works](Piece.SLDPRT), in the future i put a circuit model and a step to recreate the cube
 >### ! That's a college project and will be improve and better explained in the future !
 
-*Programmed and auxiliate by [William Fabre](https://twitter.com/VaiSeF_Will)*
+*Programmed and auxiliated by [William Fabre](https://twitter.com/VaiSeF_Will)*
