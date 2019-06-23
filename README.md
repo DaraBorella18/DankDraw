@@ -1,3 +1,4 @@
+![image](https://cdn-images-1.medium.com/max/2560/1*40u97l99Ij4Ue-hKoQilJQ.jpeg)
 # Dank Draw
 A project to auxiliate people with Alzheimer's disease to remember things
 
@@ -5,8 +6,9 @@ A project to auxiliate people with Alzheimer's disease to remember things
 Dank draw is a project idealized by Dara Karoliny de Oliveira and me in the college with the purpose of people with Alzheimer's disease can remember important things.
 This consist of a cube where some things about the people, your family and anything can be remember using media players to display images and play audio tracks that help in a process to remember.
 
-> This is a prototype and will be improved, 
-[here is a picture of the prototype](readme_image.jpeg)
+> This is a prototype and will be improved, here is a picture of the prototype
+
+![](readme_image.jpeg)
 
 ### Things needed
 1. Display LCD 3.5" for Raspberry Pi
